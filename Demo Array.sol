@@ -23,3 +23,4 @@ contract Demo_array{
     
    delete array3[0];
   }
+}  
